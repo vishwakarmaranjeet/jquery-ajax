@@ -1,1 +1,1 @@
-# jquery-ajax
+# jQuery Ajax project build for mobile app
