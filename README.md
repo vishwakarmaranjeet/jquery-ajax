@@ -1,1 +1,1 @@
-# jQuery Ajax project build for mobile app
+# ajax-apicall
